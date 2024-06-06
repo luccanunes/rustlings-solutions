@@ -6,9 +6,5 @@
 // hint.
 
 fn main() {
-<<<<<<< HEAD:exercises/00_intro/intro2.rs
-    printline!("Hello there!")
-=======
     println!("Hello {}!", "World");
->>>>>>> tmp:exercises/intro/intro2.rs
 }
